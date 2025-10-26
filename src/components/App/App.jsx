@@ -6,7 +6,7 @@ import About from "../About/About.jsx";
 import Footer from "../Footer/Footer.jsx";
 import ModalWithForm from "../ModalWithForm/ModalWithForm.jsx";
 import Preloader from "../Preloader/Preloader.jsx";
-import LoginModal from "../LogInModal/LogInModal.jsx";
+import LoginModal from "../LoginModal/LoginModal.jsx";
 import SearchBar from "../SearchBar/SearchBar.jsx";
 import { Link } from "react-router-dom";
 import { BrowserRouter, Routes, Route, useLocation } from "react-router-dom";
